@@ -1,0 +1,9 @@
+Title: Nasze historie
+
+----
+
+Label: Nasze historie
+
+----
+
+Text: To będzie blog. Na razie nic z tym nie robimy.

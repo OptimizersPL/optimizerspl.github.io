@@ -1,0 +1,49 @@
+Title: Home
+
+----
+
+Slider:
+(carousel…)
+(image: slider1.jpg caption: Sale szkoleniowe caption2: Dodatkowy tekst link_text: Zobacz wyposażenie  → link: test)
+(image: slider1.jpg caption: Polna 70 caption2: Dodatkowy tekst link_text: Zobacz wyposażenie  → link: test)
+(image: slider1.jpg caption: Studio kulinarne caption2: Spotkania, że palce lizać link_text: Zobacz wyposażenie  → link: test)
+(…carousel)
+
+----
+
+Text1: **Nasi goście najczęściej podkreślają przemiłą, sprzyjającą burzom mózgów atmosferę.** Cenią sobie otwartą przestrzeń, wystrój sal oraz pyszną zabawę w studiu kulinarnym. I oczywiście zapach lasu. Przyjedź na Polną 70 - pozytywną energię otrzymasz w cenie.
+
+----
+
+Text2: Potrzebujesz wyjątkowego miejsca na firmowe szkolenie lub warsztaty? Porozmawiajmy.
+
+----
+
+Sale:
+Szkoleniowe:
+	Zdjęcie: szkoleniowe1.jpg
+	Tekst: **Sale szkoleniowe, sale konferencyjne i na spotkania.** 4 niezależne, nowoczesne wnętrza do swobodnej aranżacji. Pomieszczenia dla 15, 30 lub 50 osób.
+	Link_text: Zobacz sale szkoleniowe  →
+	Link_url: sale-szkoleniowe-warszawa
+	Button_text: Zarezerwuj salę szkoleniową
+Kulinarne:
+	Zdjęcie: polna1.jpg
+	Tekst: **Studio kulinarne wraz z jadalnią i miejscem do wypoczywania.** Na warsztaty, spotkania integracyjne, prezentacje produktów i inne okazje.
+	Link_text: Więcej o studiu kulinarnym  →
+	Link_url: studio-kulinarne-warszawa
+	Button_text: Zarezerwuj studio kulinarne 
+Polna:
+	Zdjęcie: kulinarne1.jpg
+	Tekst: **Polna 70 w całości. Na wyłączność.** Sale szkoleniowe, studio kulinarne oraz 600 m2 ogrodu - wszystko to w sercu 1500 m2 lasu. 
+	Link_text: Jak wynająć Polną 70 na wyłączność  →
+	Link_url: 
+	Button_text: Zarezerwuj Polną 70
+
+----
+
+Idea:
+Link_text: Przeczytaj skąd wziął się pomysł na Polną 70  →
+Link_url: 
+Zdjęcie: news1.jpg
+Tytuł: Abyś czuł się u nas jak w domu
+Tekst: Jesteśmy trenerami, coachami oraz praktykami biznesu z wieloletnim doświadczeniem. Pragnęliśmy stworzyć miejsce, które będzie dawać energię i wspierać w rozwoju, z daleka od zgiełku miasta.

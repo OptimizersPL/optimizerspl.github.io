@@ -1,0 +1,86 @@
+Title: Polna 70
+
+----
+
+Author: Bastian Allgeier GmbH
+
+----
+
+Description: This is Kirby's Starterkit.
+
+----
+
+Copyright: © 2017–(date: Year)
+
+----
+
+Address: Polna 70, 05-420 Józefów
+
+----
+
+Telefon: 605 139 686
+
+----
+
+Logo: logo_polna.png
+
+----
+
+Klienci:
+golden_line:
+	Logo: golden-logo.png
+dhl:
+	Logo: dhl.png
+nespresso:
+	Logo: nespresso-logo.png
+spectrum:
+	Logo: spc_Logo.png
+
+----
+
+Logo stopka: logo_polna_white.png
+
+----
+
+Stopka kolumna1: Nowoczesne i przyjazne miejsce do wynajęcia. Lokalizacja: Warszawa Józefów. W środku znajdują się sale szkoleniowe, sala konferencyjna, studio kulinarne, wspólne miejsce do spożywania posiłków i wypoczywania. Udostępniamy przestrzeń na spotkania biznesowe, kulturalno-artystyczne oraz kameralne spotkania z rodziną i przyjaciółmi. Ogród i las wokół domu stanowią wyjątkowe otoczenie dla wydarzeń plenerowych, sesji zdjęciowych i pokazów.
+
+----
+
+Stopka kolumna2:
+Odnośnik1:
+	Tekst: Idea
+	Link:
+Odnośnik2:
+	Tekst: Sale szkoleniowe
+	Link:
+Odnośnik3:
+	Tekst: Studio kulinarne
+	Link:
+Odnośnik4:
+	Tekst: Szkolenia
+	Link:
+Odnośnik5:
+	Tekst: Wydarzenia
+	Link:
+Odnośnik6:
+	Tekst: Blog
+	Link:
+Odnośnik7:
+	Tekst: Rezerwacje
+	Link:
+Odnośnik8:
+	Tekst: Kontakt
+	Link:
+
+----
+
+Social:
+Facebook:
+	Tekst: Facebook
+	Link:
+LinkedLn:
+	Tekst: LinkedLn
+	Link:
+Instagram:
+	Tekst: Instagram
+	Link:

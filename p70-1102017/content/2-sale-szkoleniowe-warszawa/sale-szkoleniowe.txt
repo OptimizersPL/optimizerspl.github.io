@@ -1,0 +1,93 @@
+Title: Sale szkoleniowe i konferencyjne w Warszawie
+
+----
+
+Label: Sale szkoleniowe
+
+----
+
+Intro: Udostępniamy sale szkoleniowe, salę konferencyjną na spotkania do 60 osób, studio kulinarne wraz z jadalnią i miejscem do wypoczywania oraz 600 m2 ogrodu na wydarzenia plenerowe. Wszystko to w sercu 1500 m2 lasu.
+
+----
+
+kolumna1:
+text1: **4 niezależne sale szkoleniowe** dla 15, 30 lub 50 osób. Lorem ipsum dolor sit amet.
+text2: **Możliwość swobodnej aranżacji:** podkowa, ułożenie warsztatowe, szkoleniowe, teatralne.
+
+----
+
+kolumna2:
+text1: **Nowoczesna i przyjazna przestrzeń do pracy** lorem ipsum dolor sit amet.
+text2: **Klimatyzacja + możliwość pracy przy otwartym oknie** lorem ipsum dolor sit amet.
+
+----
+
+Zdjęcie1: news1.jpg
+
+----
+
+Rezerwacja_text: Zarezerwuj salę na szkolenie lub konferencję
+
+----
+
+Sale: 
+Sala brzozowa:
+	Zdjęcie: news1.jpg
+	Tytuł: **Sala brzozowa** dla 30 osób, 38 m2
+	Tekst: Brzoza (Betula L.) – rodzaj drzew i krzewów należący do rodziny brzozowatych. Obejmuje trudną do sprecyzowania liczbę gatunków, ponieważ w obrębie rodzaju łatwo powstają mieszańce międzygatunkowe o trudnym do ustalenia statusie taksonomicznym.
+	Pozycja_zdjęcia: prawa
+Sala tweedowa:
+	Zdjęcie: news1.jpg
+	Tytuł: **Sala tweedowa** dla 50 osób, 71 m2
+	Tekst: Tweed – szkocka tkanina wełniana, z grubej przędzy zgrzebnej o splocie skośnym i bardzo ścisłej strukturze, folowana i drapana, często w wielobarwne wzory (najczęściej w tzw. jodełkę). Używana najczęściej na marynarki męskie, a także płaszcze i damskie kostiumy.
+	Pozycja_zdjęcia: lewa
+Sala projekcyjna:
+	Zdjęcie: news1.jpg
+	Tytuł: **Sala projekcyjna** dla 50 osób, 88 m2
+	Tekst: Projekcja (od łac. proiacere, wyrzucać przed siebie) – narcystyczny mechanizm obronny; przypisywanie innym własnych poglądów, zachowań lub cech, najczęściej negatywnych. Przyczyną jest większa dostępność tych poglądów, zachowań i cech u osoby, która je posiada, a tym samym łatwiejsze podciąganie pod daną kategorię.
+	Pozycja_zdjęcia: prawa
+
+----
+
+Więcej_tytuł: Potrzebujesz czegoś jeszcze?
+
+----
+
+Więcej:
+Catering:
+	Tytuł: Catering
+	Text: Zapewniamy catering oraz niezwykłą oprawę florystyczną. Lubimy dobre jedzenie i ładne otoczenie. Powiedz nam czego potrzebujesz, a my zajmiemy się resztą.
+Dojazd:
+	Tytuł: Dojazd
+	Text: Zapewniamy dojazd z i do Warszawy. Powiedz nam jaka ilość osób, godzina odjazu i miejsce spotkania. Przyjedziemy i odwieziemy w wybrane przez Ciebie miejsce.<br><br>Wolisz nocleg? Zaoferują Ci go nasi partnerzy, a my zapewnimy dojazd z i do hotelu.<br>HOTEL BRANT<br>HOTEL HOLIDAY<br> INNVILLA OTWOCK
+Aktywności:
+	Tytuł: Aktywności
+	Text: Zorganizujemy dla Ciebie czas wolny:<br>- Rajd rowerowy<br>- Joga<br>- Bieg terenowy<br>- Warsztaty florystyczne<br>- Obserwacje ptaków<br>- Warsztaty z końmi<br>- Łowienie ryb<br>- Golf<br>- Strzelanie z łuku<br>- Off-road 4x4<br>I wiele innych
+
+----
+
+Title2: Jedyne takie miejsce w Warszawie (lokalizacja)
+
+----
+
+Text2: Nowoczesne i przyjazne miejsce, zlokalizowane w Warszawie-Józefowie. W środku znajdują się sale szkoleniowe, studio kulinarne, wspólne miejsce do jedzenia i wypoczywania. Możliwość swobodnej aranżacji wnętrz pozwala na organizację spotkań biznesowych i kulturalno-artystycznych. Ogród i las wokół domu stanowią wyjątkowe otoczenie dla wydarzeń plenerowych, sesji zdjęciowych i pokazów.
+
+----
+
+Zdjęcie2: news1.jpg
+
+----
+
+kolumna1_2:
+text1: **25 minut jazdy samochodem z centrum Warszawy** lorem ipsum dolor sit amet.
+text2: **Kolejka podmiejska** lorem ipsum dolor sit amet.
+
+----
+
+kolumna2_2:
+text1: **Piękna i cicha okolica** lorem ipsum dolor sit amet.
+text2: **Odwiedzają nas zwierzęta** lorem ipsum dolor sit amet.
+
+----
+
+Rezerwacja_text2: Poznaj naszą propozycję wynajmu sali na szkolenie, warsztaty lub konferencję w Warszawie.

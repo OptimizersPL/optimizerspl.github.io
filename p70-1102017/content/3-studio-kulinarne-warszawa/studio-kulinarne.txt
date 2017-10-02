@@ -1,0 +1,119 @@
+Title: Studio kulinarne w Warszawie
+
+----
+
+Label: Studio kulinarne
+
+----
+
+Intro: Studio kulinarne na warsztaty, spotkania integracyjne, prezentacje produktów, kolacje firmowe, przyjęcia z rodziną, przyjaciółmi oraz private dining. Przywołaj przyjemność rozmowy przy stole, wspólnego gotowania i smakowania w czasie organizowanych przez nas warsztatów kulinarnych.
+
+----
+
+kolumna1:
+text1: **W pełni wyposażone miejsce o powierzchni 100 m2:** kuchnia (77 m2), jadalnia (20 m2) oraz miejsce do wypoczynku i zabawy dla dzieci (10 m2)
+text2: **11 stołów roboczych na warsztaty** lorem ipsum dolor sit amet
+
+----
+
+kolumna2:
+text1: **2 niezależne stoły self cooking z płytami indukcyjnymi** lorem ipsum dolor sit amet
+text2: **Dębowe stoły w jadalni z widokiem na las** i wyjściem do ogrodu tworzą niezapomniany klimat dla rodzinnych obiadów i czasu ze znajomymi
+
+----
+
+Zdjęcie1: kulinarne1.jpg
+
+----
+
+Rezerwacja_text: Zarezerwuj studio kulinarne
+
+----
+
+Rent:
+tytuł: Wypożycz sobie kucharza
+text: Lubisz śledzić co dzieje się w temacie kulinarnych eksperymentów, chcesz spędzić wyjątkowo czas, sam gotujesz i chcesz poszerzyć swoją wiedzę o fachowe rady doświadczonych szefów kuchni lub czerpiesz radość z gotowania w grupie to nasza oferta jest dla Ciebie. Wypożycz sobie Kucharza to dwie formuły
+
+----
+
+Wydarzenia: 
+Gotowanie na żywo:
+	Zdjęcie: kulinarne1.jpg
+	Tytuł: **Gotowanie na żywo**
+	Tekst: Daje możliwość obserwacji podczas kulinarnych zmagań szefa kuchni. W trakcie pokazu Kucharz przygotowuje 3-4-daniowy posiłek, dzieląc się swoją wiedzą i doświadczeniem pasji gotowania, goście natomiast mają okazję wejść w bezpośrednią  interakcję, zadawać pytania, weryfikować swoją wiedzę z najlepszymi. 
+	Pozycja_zdjęcia: prawa
+Gotuj z nami:
+	Zdjęcie: kulinarne1.jpg
+	Tytuł: **Gotuj z nami**
+	Tekst: To forma warsztatu kulinarnego, podczas którego uczestnicy nabywają wiedzę poprzez własną praktykę gotowania z doświadczonym kucharzem. Podczas kilkugodzinnych zajęć będziesz miał szansę poszerzyć swoje umiejętności, oddać się przyjemności gotowania w grupie i wymienić się własnym doświadczeniem w tym temacie. 
+	Pozycja_zdjęcia: lewa
+
+----
+
+Kucharze:
+kucharz1:
+	nazwa: David Gaboriaud
+	text: Chef i kulinarny trener. Urodził sie we Francji, od kilku lat mieszka w Polsce. W telewizji Kuchnia+ prowadzi autorski program „David w Europie”. Występuje również w porannym programie „Dzień Dobry TVN”, gdzie gotuje potrawy inspirowane swoimi podróżami. Regularnie pojawia się na antenie Radio Zet Chilli w programie „Szczypta Chilli”, gdzie rozmawia o kuchni europejskiej. Jest ambasadorem kampanii „Menu Diabetyków”, układa przepisy, prowadzi warsztaty i pokazy dla chorych na cukrzycę. Pod koniec 2014 r. rzucił pracę w korporacji, by całkowicie poświęcić się swojej największej pasji – kuchni i kulinarnemu coachingowi. Miłość do gotowania łączy z podróżami i sportem. Poprzez swoją pracę chce zarazić innych swoją pasją do gotowania, wiarą w swoje możliwości i pokazać innym jak gotować z radością i na luzie, bo jak mówi – gotowanie ma być chwilą przyjemności pod każdym względem. Jego motto - nie odżywiać się, a jeść dla przyjemności.
+	zdjęcie: kulinarne1.jpg
+kucharz2:
+	nazwa: Marcin Jabłoński
+	text: Współwłaściciel warszawskiej restauracji Naturel, gdzie jest również szefem kuchni. Laureat trzeciej edycji programu Top Chef oraz wielu prestiżowych konkursów kulinarnych na świecie, m.in. Bocuse d’Or (Bruksela), Cup George Baptiste (Meksyk), Cup George Baptiste (Tokio) czy Olimpiady Kulinarnej Erfurt (Niemcy). Współpracował do tej pory m.in. z Pascalem Brodnickim, Karolem Okrasą, Kurtem Schellerem, Jean Bosem czy Wojciechem Amaro. W swojej kuchni stawia przede wszystkim na świeżość, sezonowość, wysoką jakość produktów oraz zdrowe i naturalne smaki, dzięki którym można odkryć na nowo smaki znane z dzieciństwa. Miłość do ekoproduktów zaszczepili w nim jego rodzice – właściciele gospodarstwa ekologicznego. Kucharz znany jest także ze swojego zamiłowania do nowoczesnych technik gotowania i najnowszych urządzeń, które pozwalają mu uzyskać smak doskonały.
+	zdjęcie: kulinarne1.jpg
+kucharz3:
+	nazwa: Jakub Steuermark
+	text: Urodzony i wychowany na warszawskim Powiślu. Po wielu latach pracy w reklamie, z korzyścią dla świata i dla Polnej oddał się pasji jedzeniowych  eksperymentów. Ma za sobą doświadczenie w pracy gastronomicznej w USA, Anglii i Hiszpanii. W Anglii na stanowisku Szefa Kuchni w jednym z prestiżowych gastropubów w West Sussex. Stamtąd trafił do Londynu, gdzie razem z innymi szefami mógł współtworzyć Jamie’s Italian, włoską restaurację Jamiego Olivera w Covent Garden. Tam też ukończył formalnie wykształcenie kucharskie i ruszył w dalszą podróż. Jesienią 2013 wrócił do Polski, gdzie rozwija swój autorski projekt Masło i Szałwia krzewiąc idee Comfort Food – czyli prostych dań składających się z sezonowych, jakościowych składników. Kucharz orkiestra.
+	zdjęcie: kulinarne1.jpg
+
+----
+
+Title2: Wyposażenie studia kulinarnego
+
+----
+
+Intro2: W pełni wyposażone miejsce o powierzchni 100 m2, składającą się z kuchni, jadalni oraz miejsca do wypoczynku i zabawy dla dzieci. W naszym studiu można przeprowadzić warsztaty kulinarne do 50 osób, wydarzenia w ogrodzie do 60 osób. Zapewniamy także catering do 60 osób.
+
+----
+
+kolumna1_2:
+text1: **2 niezależne stoły self cooking** z płytami indukcyjnymi
+text2: **11 stołów roboczych** na warsztaty
+text3: **6 dębowych stołów** z krzesłami
+
+----
+
+kolumna2_2:
+text1: **Lodówka**, zamrażarka, zmywarka
+text2: **Jadalnia** z wyjściem do ogrodu
+text3: **Malakser, blender, zestaw noży, garnki, miski** i inne kuchenne niezbędniki do gotowania i pieczenia
+
+----
+
+Zdjęcie2: kulinarne1.jpg
+
+----
+
+Title3: Jedyne takie miejsce w Warszawie (lokalizacja)
+
+----
+
+Intro3: Nowoczesne i przyjazne miejsce, zlokalizowane w Warszawie-Józefowie. W środku znajdują się sale szkoleniowe, studio kulinarne, wspólne miejsce do jedzenia i wypoczywania. Możliwość swobodnej aranżacji wnętrz pozwala na organizację spotkań biznesowych i kulturalno-artystycznych. Ogród i las wokół domu stanowią wyjątkowe otoczenie dla wydarzeń plenerowych, sesji zdjęciowych i pokazów. 
+
+----
+
+kolumna1_3:
+text1: **25 minut jazdy samochodem z centrum Warszawy** lorem ipsum dolor sit amet.
+text2: **Kolejka podmiejska** lorem ipsum dolor sit amet.
+
+----
+
+kolumna2_3:
+text1: **Piękna i cicha okolica** lorem ipsum dolor sit amet.
+text2: **Odwiedzają nas zwierzęta** lorem ipsum dolor sit amet.
+
+----
+
+Zdjęcie3: kulinarne1.jpg
+
+----
+
+Rezerwacja_text2: Wspólne gotowanie, warsztaty, przyjęcie, kameralne spotkanie? 

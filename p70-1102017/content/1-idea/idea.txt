@@ -1,0 +1,70 @@
+Title: Polna 70 to miejsce, które daje energię i wspiera w rozwoju, z daleka od zgiełku miasta
+
+----
+
+Label: Idea
+
+----
+
+Intro: Jesteśmy trenerami, coachami oraz praktykami biznesu z wieloletnim doświadczeniem. Dzięki Polnej rozszerzamy możliwości pozytywnej zmiany zawodowej i osobistej, integracji sąsiedzkiej, poznawania nowych ludzi oraz kontaktu ze sobą i naturą.
+
+----
+
+Cover_photo: slider1.jpg
+
+----
+
+Rezerwacja_text: Zarezerwuj salę na szkolenie lub konferencję
+
+----
+
+Cechy: 
+Cecha 1:
+	Zdjęcie: news1.jpg
+	Tytuł: **Otwarta przestrzeń**
+	Tekst: Brzoza (Betula L.) – rodzaj drzew i krzewów należący do rodziny brzozowatych. Obejmuje trudną do sprecyzowania liczbę gatunków, ponieważ w obrębie rodzaju łatwo powstają mieszańce międzygatunkowe o trudnym do ustalenia statusie taksonomicznym.
+	Pozycja_zdjęcia: prawa
+Cecha 2:
+	Zdjęcie: news1.jpg
+	Tytuł: **Horyzontalna bryła**
+	Tekst: Tweed – szkocka tkanina wełniana, z grubej przędzy zgrzebnej o splocie skośnym i bardzo ścisłej strukturze, folowana i drapana, często w wielobarwne wzory (najczęściej w tzw. jodełkę). Używana najczęściej na marynarki męskie, a także płaszcze i damskie kostiumy.
+	Pozycja_zdjęcia: lewa
+Cecha 3:
+	Zdjęcie: news1.jpg
+	Tytuł: **Prostota wyposażenia wnętrz**
+	Tekst: Projekcja (od łac. proiacere, wyrzucać przed siebie) – narcystyczny mechanizm obronny; przypisywanie innym własnych poglądów, zachowań lub cech, najczęściej negatywnych. Przyczyną jest większa dostępność tych poglądów, zachowań i cech u osoby, która je posiada, a tym samym łatwiejsze podciąganie pod daną kategorię.
+	Pozycja_zdjęcia: prawa
+
+----
+
+About_subheader: Olga i Fabrice - założyciele Polnej 70
+
+----
+
+About_text: Jesteśmy trenerami, coachami oraz praktykami biznesu z wieloletnim doświadczeniem. Organizujemy szkolenia i warsztaty rozwojowe, sesje coachingowe, projekty specjalne. Rozszerzamy możliwości pozytywnej zmiany osobistej i zawodowej.
+
+----
+
+Sale:
+Szkoleniowe:
+	Zdjęcie: szkoleniowe1.jpg
+	Tekst: **Olga Rzycka** to odważnie podążająca za swoimi marzeniami kobieta, zawodowo coach, personalna trenerka, konsultantka. Od ponad 16 lat organizuje szkolenia, warsztaty rozwojowe oraz projekty specjalne, których wspólnym mianownikiem jest człowiek. Po wielu podróżach po Polsce i świecie oraz pracy z interesującymi ludźmi dotarła do miejsca, w którym zadbała o przestrzeń, w której pomaga rozwijać się ludziom. Miejsce, które powołała do życia doskonale łączy i odzwierciedla jej zaangażowane podejście do życia i pracy – otwartość, elastyczność i indywidualizm. Prywatnie uwielbia jeździć na snowboardzie, eksperymentować w kuchni; z jednej strony zatapiać w ciszy płynącej z natury, z drugiej w atmosferze spotkań z ludźmi i płynącej z niej niepowtarzalnej wymianie energii.
+	Link_text: Zobacz sale szkoleniowe  →
+	Link_url: sale-szkoleniowe-warszawa
+	Button_text: Zarezerwuj salę szkoleniową
+Kulinarne:
+	Zdjęcie: polna1.jpg
+	Tekst: **.**
+	Link_text: Więcej o studiu kulinarnym  →
+	Link_url: studio-kulinarne-warszawa
+	Button_text: Zarezerwuj studio kulinarne 
+Polna:
+	Zdjęcie: kulinarne1.jpg
+	Tekst: **Fabrice Carrieu** - skuteczny, odpowiedzialny i ceniony menedżer, wykorzystujący swoje doświadczenie w pracy m.in. we Francji, Czechach, Polsce i Kolumbii. Polna 70 to jego wielka miłość tuż za jego życiową i zawodową partnerką Olgą Rzycką. Ten projekt pozwala mu łączyć wieloletnie doświadczenie biznesowe z pasją działania i rozwoju. Jako duet szkoleniowy D4E realizują swoją misję ‚rozwijać firmy, poprzez rozwój osobisty ludzi’. Energię, którą z niej czerpie dzieli się zarówno jako coach indywidualny i szkoleniowiec oraz konsultant. Prywatnie spełniony ojciec dwójki nietuzinkowych, jak sam tata nastolatków. Koneser spotkań z ludźmi, których uwielbia przyjmować w domu i dla nich gotować. 
+	Link_text: Jak wynająć Polną 70 na wyłączność  →
+	Link_url: 
+	Button_text: Zarezerwuj Polną 70
+
+----
+
+Rezerwacja_text2: Poznaj naszą propozycję wynajmu sali na szkolenie, warsztaty lub konferencję w Warszawie.
